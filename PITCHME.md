@@ -7,10 +7,10 @@
 
 ### @fa[rocket] Topics to Explore Today @fa[rocket]
 
-1. What is Grav?
-2. Grav Open Course Hub Project
-3. Other Open-related Grav Projects
-4. Possible Next Steps
+1. Why Accessibility?
+2. Understand Accountability
+3. Tools we can use
+4. Accessibility with Angular
 
 ---?color=#8fa33b
 
