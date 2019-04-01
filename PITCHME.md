@@ -21,14 +21,14 @@
 ---
 <div class="left">
    - Some people can't:<br>
-    - Use a mouse
-    - View a screen
+    - Use a mouse<br>
+    - View a screen<br>
     - Understand complex language
 </div>
 <div class="right">
    - Some people need:<br>
-    - Use a mouse
-    - View a screen
+    - Use a mouse<br>
+    - View a screen<br>
     - Understand complex language
 </div>
 
