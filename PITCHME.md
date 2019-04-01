@@ -14,9 +14,9 @@
 
 ---?color=#8fa33b
 
-### What is Grav?
+### Why Accessibility?
 
----?image=assets/img/getgrav.png&size=contain&color=black
+---?image=assets/img/population.PNG&size=contain&color=black
 
 ---?image=assets/img/getgrav-2.png&size=contain&color=black
 
