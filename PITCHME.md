@@ -18,18 +18,20 @@
 
 ---?image=assets/img/population.PNG&size=contain&color=black
 
----?image=assets/img/getgrav-2.png&size=contain&color=black
-
 ---
+<div class="left">
+   - Some people can't:
+    - Use a mouse
+    - View a screen
+    - Understand complex language
+</div>
+<div class="right">
+   - Some people need:
+    - Use a mouse
+    - View a screen
+    - Understand complex language
+</div>
 
-### Grav Highlights
-
-- File-based
-    - Fast performance (esp. smaller sites), simplicity, portability and generally more secure
-    - File-based content also naturally supports version control
-    - Grav can also be a front-end for any collaborative Git repository
-- Markdown
-    - A platform-independent format perfect for writing and the 5Rs
 
 ---
 
