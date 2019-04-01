@@ -20,13 +20,13 @@
 
 ---
 <div class="left">
-   - Some people can't:
+   - Some people can't:<br>
     - Use a mouse
     - View a screen
     - Understand complex language
 </div>
 <div class="right">
-   - Some people need:
+   - Some people need:<br>
     - Use a mouse
     - View a screen
     - Understand complex language
