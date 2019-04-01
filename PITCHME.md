@@ -1,7 +1,7 @@
 ---?color=#222222
 
 ### Software Accessibility <br><br>
-##### Bhanu Chamakuri<br>[@fa[twitter]@hibbittsdesign](https://twitter.com/hibbittsdesign)<br>
+##### Bhanu Chamakuri<br>[@fa[twitter]@bhanuchamakuri](https://twitter.com/bhanuchamakuri)<br>
 
 ---
 
