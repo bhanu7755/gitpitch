@@ -19,12 +19,14 @@
 ---?image=assets/img/population.PNG&size=contain&color=black
 
 ---
+@ul[squares]
 <div class="left">
    - Some people can't:<br>
     - Use a mouse<br>
     - View a screen<br>
     - Understand complex language
 </div>
+@ulend
 <div class="right">
    - Some people need:<br>
     - Use a mouse<br>
