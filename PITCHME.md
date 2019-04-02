@@ -46,8 +46,6 @@
 
 ---?image=assets/img/Accountability.PNG&size=contain&color=black
 
----
-
 ---?image=assets/img/tools.PNG&size=contain&color=black
 
 ---
