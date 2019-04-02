@@ -45,13 +45,7 @@
 @ulend
 ---
 
-### Grav’s Layered Conceptual Design
-
-![Conceptual Design](/fol2018/img/grav-conceptual-design.png)
-
----?color=#8fa33b
-
-### Open Course Hub Project
+![Accountability](/assets/img/Accountability.PNG&size=contain&color=black)
 
 ---
 
