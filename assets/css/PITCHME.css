@@ -104,7 +104,6 @@ div.activity-details {
     float: left;
     width:50%;
     z-index:-10;
-    font-size:75%;
 }
 
 .reveal div.right {
@@ -114,5 +113,4 @@ div.activity-details {
     text-align: right;
     z-index:-10;
     width:50%;
-    font-size:75%;
 }
