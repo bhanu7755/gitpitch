@@ -45,7 +45,7 @@
 @ulend
 ---
 
-![Accountability](/assets/img/Accountability.PNG&size=contain&color=black)
+![Accountability](/img/Accountability.PNG&size=contain&color=black)
 
 ---
 
