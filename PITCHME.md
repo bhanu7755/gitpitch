@@ -24,7 +24,6 @@
    - Some people can't:<br>
        - Use a mouse<br>
        - View a screen<br>
-       - Understand complex language
 </div>
 @ulend
 @ul[squares]
