@@ -19,33 +19,30 @@
 ---?image=assets/img/population.PNG&size=contain&color=black
 
 ---
-Some people can't:<br>
-@ul[squares]
-<div class="left">
-       - Use a mouse<br>
-       - View a screen<br>
-</div>
-@ulend
+### Some people can't
 
-Some people need:<br>
 @ul[squares]
-<div class="right">
-       - Use a mouse<br>
-       - View a screen<br>
-</div>
-@ulend
 
+- Use a mouse
+- View a screen
+- See low contrast text
+- Hear dialouge and music
+- Understand complex language
+
+@ulend
 ---
 
-### Grav Highlights
+### Some people need
 
-- Modular
-    - Modular content is possible, along with custom content types
-- Workflow
-    - Supports an efficient edit and publish workflow (esp. Git-based)
-- Customization
-    - Powerful Blueprints supports Admin Panel customizations
+@ul[squares]
 
+- Keyboard support
+- Screen reader support
+- High contrast text
+- Captions and transcripts
+- Plain language
+
+@ulend
 ---
 
 ### Grav’s Layered Conceptual Design
