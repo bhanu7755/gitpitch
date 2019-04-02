@@ -43,9 +43,9 @@
 - Plain language
 
 @ulend
----
 
-![Accountability](/assets/img/Accountability.PNG&size=contain&color=black)
+---?image=assets/img/Accountability.PNG&size=contain&color=black
+
 
 ---
 
