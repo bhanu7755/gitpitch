@@ -66,4 +66,34 @@
 ---?image=assets/img/meaningful_2.PNG&size=contain&color=black
 
 ---
+### Angular Unit Test
+
+@title[Sample Code Block]
+
+```typescript
+describe('mdCheckbox with provided aria-labelledby ', () => {
+    let checkboxDebugElement: DebugElement;
+    let checkboxNativeElement: HTMLElement;
+    let inputElement: HTMLInputElement;
+
+    it('should use the provided aria-labelledby', () => {
+      fixture = TestBed.createComponent(CheckboxWithAriaLabelledby);
+      
+      checkboxDebugElement = fixture.debugElement.query(By.directive(MdCheckbox));
+      checkboxNativeElement = checkboxDebugElement.nativeElement;
+
+      inputElement = <HTMLInputElement>checkboxNativeElement.querySelector('input');
+
+      fixture.detectChanges();
+      expect(inputElement.getAttribute('aria-labelledby')).toBe('some-id');
+  });
+
+  /** Simple test component with aria-labelledby set. */
+  @Component({
+    template: `<md-checkbox aria-labelledby="some-id"></md-checkbox>`
+  })
+  class CheckboxWithAriaLabelledby {}
+```
+
+---
 ### @fa[star] Thank you. Q&A Time! @fa[star]
