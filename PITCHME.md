@@ -50,8 +50,4 @@
 
 ---
 
-### #Ally in Angular Apps?
-
----
-
 ### @fa[star] Thank you. Q&A Time! @fa[star]
