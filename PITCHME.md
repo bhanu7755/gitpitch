@@ -48,6 +48,8 @@
 
 ---?image=assets/img/tools.PNG&size=contain&color=black
 
+---
+
 ### #Ally in Angular Apps?
 
 ---
