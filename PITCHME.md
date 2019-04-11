@@ -50,4 +50,17 @@
 
 ---
 
+### #Ally in Angular Apps?
+
+@ul[squares]
+
+- Write meaningful HTML
+- Enable the keyboard
+- Handle focus
+- Alert the user
+- coverage the tests
+
+@ulend
+---
+
 ### @fa[star] Thank you. Q&A Time! @fa[star]
