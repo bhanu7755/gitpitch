@@ -61,6 +61,8 @@
 - coverage the tests
 
 @ulend
----
+---?image=assets/img/meaningful_1.PNG&size=contain&color=black
+
+---?image=assets/img/meaningful_2.PNG&size=contain&color=black
 
 ### @fa[star] Thank you. Q&A Time! @fa[star]
