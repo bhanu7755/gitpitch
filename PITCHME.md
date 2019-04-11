@@ -68,7 +68,7 @@
 ---
 ### Angular Unit Test
 
-@title[Sample Code Block]
+Applying a text alternative with `aria-labelledby`
 
 ```typescript
 describe('mdCheckbox with provided aria-labelledby ', () => {
