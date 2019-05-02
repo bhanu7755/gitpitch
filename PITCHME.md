@@ -7,10 +7,18 @@
 
 ### @fa[rocket] Topics to Explore Today @fa[rocket]
 
-1. Why Accessibility?
-2. Understand Accountability
-3. Tools we can use
-4. Accessibility with Angular
+1. What is Accessibility?
+2. Why Accessibility?
+3. Understand Accountability
+4. Tools we can use
+5. Accessibility with Angular
+
+---?color=#8fa33b
+
+### What is Accessibility?
+
+---
+Getting your [app, product or software] usable by as many people as humanly possible
 
 ---?color=#8fa33b
 
